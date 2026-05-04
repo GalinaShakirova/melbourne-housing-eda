@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib
+seaborn
+folium
+requests
+jupyter
+jupyterlab
